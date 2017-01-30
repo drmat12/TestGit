@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Guitar</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<div id="header" class="container">
+
+						<!-- Logo -->
+							<h1 id="logo"><a href="index.html">Guitar Life</a></h1>
+							<p>This page was designed to display my love for music.</p>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+								
+									<li><a class="icon fa-home" href="index.html"><span>Home</span></a></li>
+									<li><a class="icon fa-file-pdf-o" href="CrooksCorey20170109.pdf"><span>Resume</span></a></li>
+									<li><a class="icon fa-github" href="projects.html"><span>Projects</span></a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</div>
+
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div id="main" class="container">
+						<div class="row">
+
+							<!-- Sidebar -->
+								<div id="sidebar" class="4u 12u(mobile)">
+
+									<!-- Excerpts -->
+										<section>
+											<ul class="divided">
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<span class="date">January 9th</span>
+																<h3><a href="https://www.taylorguitars.com/guitars/acoustic/shapes/overview">Taylor Guitars</a></h3>
+															</header>
+															<p>An acoustic guitars body design literally shapes its sound. Taylor offers five shapes that range from small and intimate to big and powerful. As you play different shapes, consider how each one feels against you. The more comfortable you feel, the more naturally you'll play.</p>
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<span class="date">January 9th</span>
+																<h3><a href="https://www.taylorguitars.com/guitars/acoustic/features/woods/body-woods/hawaiian-koa" class="image left"><img src="images/Taylor-K26ce-fr-2015.png" alt="" />Taylor Hawaiian Koa</a></h3>
+															</header>
+															<p>A dense tropical hardwood, koa blends midrange focus with extra top-end brightness and chime. 
+															The more a koa guitar is played and opens up - especially an all-koa guitar - the more its midrange overtones add warmth and sweetness to its voice.</p>
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Excerpt -->
+														<article class="box excerpt">
+															<header>
+																<video id="guitar1" src="images/Guitar1.mp4" width="350" height="300" controls></video>
+																 <center>"Sungha Jung - l'atelier" </center>
+															</header>
+															
+														</article>
+
+												</li>
+											</ul>
+										</section>
+
+									<!-- Highlights -->
+										<section>
+											<ul class="divided">
+												<li>
+
+													<!-- Highlight -->
+														<article class="box highlight">
+														
+															<header>
+																<h3><a href="#">    </a></h3>
+															</header>
+															<a href="#" class="image left"></a>
+															<p> <!--Phasellus  sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
+															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
+															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
+															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci. --></p>
+															<ul class="actions">
+																<li><a href="#" class="button icon fa-file">Learn More</a></li>
+															</ul>
+														
+														</article>
+
+												</li>
+												<li>
+
+													<!-- Highlight -->
+														<article class="box highlight">
+														
+															<header>
+
+																<h3><a href="#">     </a></h3>
+															</header>
+															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
+															<p><!--Phasellus  sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
+															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
+															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
+															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.--></p>
+															<ul class="actions">
+																<li><a href="#" class="button icon fa-file">Learn More</a></li>
+															</ul>
+														
+														</article>
+														
+
+												</li>
+											</ul>
+										</section>
+
+								</div>
+
+							<!-- Content -->
+								<div id="content" class="8u 12u(mobile) important(mobile)">
+
+									<!-- Post -->
+										<article class="box post">
+											<header>
+											
+											</header>
+											<span class="image featured"><img src="images/acoustic-find-your-fit-shapes-1082x810_0.jpg" alt="" /></span>
+											
+											<h3>Playing Guitar is an escape to another world.</h3>
+											
+											<p>When I was 11 years old, I had a really good friend that knew how to play the guitar
+												and his dad also was in a band. They
+											    lived right next door to us and I was always over there listening to them play. His
+											    dad primary played bass guitar but I took more interest into the 6 string. Hearing 
+											    the coordination of different instruments coming together all at once was pure 
+											    amazement. It was at that time that I decided I wanted to learn how to play
+											    music.</p>
+
+											<p> Around this time, internet wasn't really that big. I can remember having to use
+												dial up AOL to connect whenever someone did not really need to use the phone ("Yes..
+												look at what we have now today!"). However at the time, I can recall going online
+												printing so many different pages of guitars and articles relationing to them. I just 
+												know that I wanted a guitar REALLLY REALLLLY BAD and that is when my friend decided to
+												sell me one of his guitars for $80 dollars.  </p>
+
+
+											<p>At 11 years old, I didnt have the money to pay for the guitar so I tried saving money up by 
+												doing chores and things around the house. However my amazing grandmother, whom we call "Nan" 
+												<i>(Side note: she is the most amazing person I have ever met in my life, 
+												and always inspires me to be the best person I can be. Oh and shes from Liverpool, England! how
+												cool!) </i> had bought the guitar for me.</p>
+
+											<h3>Nothing can stop you from learning</h3>
+											<p>After getting the guitar, aside from being taught every once in a while from my friend and his
+												dad I took it upon myself to teach myself how to play. I sat in front of my parents computer 
+												in our living room with the guitar on my lap, night after night learning everything that I could.
+												At this stage, time was flying and my skills were increasing. I continued to grow each and every 
+												day into a better guitarist. My cousin Jason was really interested in Drums and I remember when he saved his money to buy a drum set from a local pawn shop. That was an exciting day when we eventually got everything setup and started practicing together.
+											</p>
+											<p>In 8th grade, we decided to sign up for our first show ever... a talent show. We kept going
+											back and forth about what song to play and we finally decided that we were going to play "Am I Evil", by Metallica. We had spoken to my friend (the one that was teaching me on and off) and asked him to play in it with us, but he never showed up for the show. That was such an amazing experience and a huge jump start to our music side careers.</p>
+
+											<h3>Years passed by</h3>
+
+											<p>When I got to high school, I was excited to go to guitar class. However I was way too advanced to 
+											learn the topics that were being teached but it was fun helping out everyone in the class and also 
+											getting free time to practice the things I wanted to practice. I met up with a few other musicians (Jason - my cousin, Mike J, Mike H and Myself) and we started our first band called "Betrayed". We practiced a lot, almost 3 - 4 times a week focusing on a heavy metal style, something sort of like Metallica, UnEarth, 
+											MegaDeath, Avenged Sevenfold etc.. After my second year of high school I decided that I wanted to leave the current school I was at and go to the Pittsburgh Creative and Performing Arts School (CAPA) to study more advance guitar.
+											</p>
+
+											<p>At the age of 15 I forgot what the feeling of amazement was when I first was introduced to the guitar at 11 until I made it through my first week at CAPA. The guitarists there were just simply 
+										    amazing! and way beyond my skill set. I became good friends with Brandon L and Nolan L, two guitarists that were just unbelievable. The best thing that could of happened to me was being able to go to this school, becoming more versatile in my music studies, and learning how to read sheet music.
+											 </p>
+
+										<p> Our band eventually split, I had joined other bands and did not stay very long. The years eventually passed by and I continued playing but focused more on acoustic / fingerstyle guitar. The guitar still plays a huge part in my life, its not just a form of creativity but its a way to escape. The freedom that comes with playing the guitar is magical and my love for it continues to grow just as it did when I was 11 years old.
+										</p>	
+										</article>
+												
+								</div>
+
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper">
+					<div id="footer" class="container">
+						
+							<div class="6u 12u(mobile)">
+							
+							</div>
+						</div>
+					</div>
+					<div id="copyright" class="container">
+						<ul class="links">
+							<li>&copy; Corey Crooks. All rights reserved.</li>
+						</ul>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
